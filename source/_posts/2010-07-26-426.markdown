@@ -17,61 +17,17 @@ Spring bean and faced the error :
 ambiguities`**
 
 I was breaking my head for a while only to find later that my config XML is
-not even in the classpath. You can find the trace and the configuration below
-: <bean id="xmlConfig"> <constructor-arg type="java.net.URL" value="classpath
-:alert-config.xml" /> <property name="reloadingStrategy"> <bean/> </property>
+not even in the classpath. You can find the configuration below
+
+{% codeblock lang:xml%}
+
+
+<bean id="xmlConfig"> <constructor-arg type="java.net.URL" value="classpath:alert-config.xml" /> 
+<property name="reloadingStrategy"/> 
 </bean>
 
 <bean id="alertConfig"> <property name="xmlConfig" ref="xmlConfig"></property>
 </bean>
 
-`Exception in thread "main"
-org.springframework.beans.factory.BeanCreationException: Error creating bean
-with name 'alertConfig' defined in class path resource
-[applicationContext.xml]: Cannot resolve reference to bean 'xmlConfig' while
-setting bean property 'xmlConfig'; nested exception is
-org.springframework.beans.factory.BeanCreationException: Error creating bean
-with name 'xmlConfig' defined in class path resource [applicationContext.xml]:
-1 constructor arguments specified but no matching constructor found in bean
-'xmlConfig' (hint: specify index/type/name arguments for simple parameters to
-avoid type ambiguities) at org.springframework.beans.factory.support.BeanDefin
-itionValueResolver.resolveReference(BeanDefinitionValueResolver.java:328) at o
-rg.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveVa
-lueIfNecessary(BeanDefinitionValueResolver.java:106) at org.springframework.be
-ans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(Abs
-tractAutowireCapableBeanFactory.java:1317) at org.springframework.beans.factor
-y.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapa
-bleBeanFactory.java:1076) at org.springframework.beans.factory.support.Abstrac
-tAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.ja
-va:517) at org.springframework.beans.factory.support.AbstractAutowireCapableBe
-anFactory.createBean(AbstractAutowireCapableBeanFactory.java:456) at org.sprin
-gframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanF
-actory.java:291) at org.springframework.beans.factory.support.DefaultSingleton
-BeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) at org.spring
-framework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFact
-ory.java:288) at org.springframework.beans.factory.support.AbstractBeanFactory
-.getBean(AbstractBeanFactory.java:190) at org.springframework.context.support.
-AbstractApplicationContext.getBean(AbstractApplicationContext.java:1075) at
-com.boa.alertxpert.config.AlertConfig.main(AlertConfig.java:21) Caused by:
-org.springframework.beans.factory.BeanCreationException: Error creating bean
-with name 'xmlConfig' defined in class path resource [applicationContext.xml]:
-1 constructor arguments specified but no matching constructor found in bean
-'xmlConfig' (hint: specify index/type/name arguments for simple parameters to
-avoid type ambiguities) at org.springframework.beans.factory.support.Construct
-orResolver.autowireConstructor(ConstructorResolver.java:175) at org.springfram
-ework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireConstru
-ctor(AbstractAutowireCapableBeanFactory.java:993) at org.springframework.beans
-.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(Abstrac
-tAutowireCapableBeanFactory.java:897) at org.springframework.beans.factory.sup
-port.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBe
-anFactory.java:485) at org.springframework.beans.factory.support.AbstractAutow
-ireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:456)
-at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(A
-bstractBeanFactory.java:291) at org.springframework.beans.factory.support.Defa
-ultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
-at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(Abs
-tractBeanFactory.java:288) at org.springframework.beans.factory.support.Abstra
-ctBeanFactory.getBean(AbstractBeanFactory.java:190) at org.springframework.bea
-ns.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinition
-ValueResolver.java:322) ... 11 more```
+{% endcodeblock %}
 

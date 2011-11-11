@@ -12,7 +12,7 @@ wordpress_id: '439'
   - programming
 ---
 
-As I mentioned in my [previous post][1], I am working on building a Solr based
+As I mentioned in my previous post, I am working on building a Solr based
 log indexing and search.  My idea was simple.  Write a custom appender, use
 XML Layout, parse the XML into a Document and use SolrJ to push to Solr.
 Very soon reality struck me :
@@ -52,8 +52,6 @@ still be on SolrJ) can be customized.
 
 This weekend should be pretty awesome then.
 
-
-   [1]: http://www.arunma.com/2011/02/log4j-log-indexing-using-solr/
 
    [2]: http://woodstox.codehaus.org/
 
