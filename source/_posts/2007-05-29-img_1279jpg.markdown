@@ -1,0 +1,15 @@
+---
+author: Arun Manivannan
+date: '2007-05-29 03:03:22'
+layout: post
+slug: img_1279jpg
+status: inherit
+title: Dont beat around the bush
+wordpress_id: '227'
+? ''
+: - java
+  - Uncategorized
+---
+
+None
+

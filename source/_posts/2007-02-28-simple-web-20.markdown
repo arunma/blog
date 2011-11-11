@@ -1,0 +1,65 @@
+---
+author: Arun Manivannan
+date: '2007-02-28 03:10:42'
+layout: post
+slug: simple-web-20
+status: publish
+title: Simple Web 2.0
+wordpress_id: '110'
+? ''
+: - web 2.0
+---
+
+Web 2.0 is about four different interacting things
+
+1. Community. This is the most obvious one. Community is basically interaction
+between members, between websites, and between the website admins and its
+members. In the old days, we had the BBS and then IRC and then forums. Now
+it's more of the same, but also extended in one crucial way: we are happy to
+share without claiming ownership. The best example is Wikipedia: no one claims
+copyright control over it, and so we are breaking the traditional authorship
+rights. When we contribute to Wikipedia, anyone can read our contribution,
+anyone can copy it, anyone can edit, and dang it, anyone can delete it. This
+is very new.
+
+The other new thing is voting. Now we have popularity contests of our
+contributions. Our forums have reps, delicious has the popular lists, and of
+course digg is the ultimate voting system. If you think hard, you can also
+convince yourself, Google's PageRank is essentially an algorithm that measures
+social popularity (link = vote).
+
+2. Technology. Here we talk about XML, APIs, new content management systems
+like blogs and wikis, and if you're that inclined, sure, AJAX. The new
+technologies support the formation of communities and the interactions I
+explained above. XML gives us RSS and AJAX. APIs are a more general term that
+gives us mashups, and arguably, everything else. Basically, it's the use of
+standard technologies everyone agrees on. This, IMHO, is the biggest
+"technological" breakthrough: actually agreeing on a technical standard!!!
+
+3. Architecture. This is best described by the [Cluetrain Manifesto][1] as:
+
+Quote:
+
+
+The Web has become the new corporate infrastructure, in the form of intranets,
+turning massive corporate hierarchical systems into collections of many small
+pieces loosely joining themselves unpredictably.
+
+Essentially, we're talking about a more modular way to build applications. The
+(re)rise of Ruby on Rails and MVC model, along with other frameworks like
+CakePHP, is testament to this aspect of Web 2.0
+
+4. Look. Every movement has a look: the 60s, the 80s, and now Web 2.0. Long
+gone are square boxes with plain boring color. No man, bring on the colors.
+Give me some jive. Don't be square. Lively and fresh is what we are. Why be
+something else? And yes, white space is great.
+
+So this is Web 2.0 in a nutshell. Web 2.5 is in beta now and will be released
+shortly.
+
+from the author of [ekstreme.com][2]
+
+   [1]: http://www.cluetrain.com/book/longing.html
+
+   [2]: http://ekstreme.com/thingsofsorts/
+

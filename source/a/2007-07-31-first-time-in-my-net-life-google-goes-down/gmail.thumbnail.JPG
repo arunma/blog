@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+<head>
+<meta charset="UTF-8" />
+<title> &raquo; Page not found Mind.random()</title>
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://www.arunma.com/wp-content/themes/elegant-grunge/style.css" />
+<!--[if lt IE 8]><link rel="stylesheet" media="all" href="http://www.arunma.com/wp-content/themes/elegant-grunge/ie.css" />
+<![endif]-->
+<link rel="pingback" href="http://www.arunma.com/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="Mind.random() &raquo; Feed" href="http://www.arunma.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Mind.random() &raquo; Comments Feed" href="http://www.arunma.com/comments/feed/" />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.arunma.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.arunma.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.arunma.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='Mind.random()' href='http://www.arunma.com/' />
+<meta name="generator" content="WordPress 3.2.1" />
+	<style type="text/css">
+			#header div a,
+		#header h1,
+		#header h2,
+		#blog-description {
+			color: #d3d3d3;
+		}
+		</style>
+</head>
+<body class="error404 no-sidebar">
+	<div id="page">
+		<div id="menu">
+			<div class="menu-header"><ul><li ><a href="http://www.arunma.com/" title="Home">Home</a></li><li class="page_item page-item-434"><a href="http://www.arunma.com/about-2/" title="About me">About me</a></li></ul></div>
+			<div class="clear"></div>
+		</div><!-- #menu -->
+		<div id="header-wrap">
+						<div id="header">
+				<div>
+					<a href="http://www.arunma.com/" title="Mind.random()" rel="home">
+											<h2>Mind.random()</h2>
+											<p id="blog-description">random ramblings of an eccentric programmer</p>
+					</a>
+				</div>
+			</div>
+		</div><!-- #header-wrap --><div id="content-container">
+	<div id="content">
+		<div id="content-body">
+			<h1 class="page-title">Error 404 - Not found</h1>
+			<p>Sorry, no posts could be found here. Try searching below:</p>
+			<form method="get" id="searchform" action="http://www.arunma.com/">
+	<div>
+		<input type="text" value="search" onfocus="if (this.value == 'search' ) {this.value = '';}" onblur="if (this.value == '' ) {this.value = 'search';}" name="s" id="s" /><input type="submit" id="searchsubmit" value="Go" />
+	</div>
+</form>			<div class="clear"></div>
+		</div>
+		
+		<div class="clear"></div>
+	</div>
+</div>
+</div><!-- #content-body -->
+<div id="footer-wrap-outer">
+	<div id="footer-wrap">
+		<div id="footer">
+			<div id="subscribe-rss">
+				<a href="http://www.arunma.com/feed/">Subscribe RSS</a>
+			</div>
+						<div class="clear"></div>
+			<div class="credit">
+				<a href="http://wordpress.org/" rel="generator">Proudly powered by WordPress</a>
+				Theme: Elegant Grunge by <a href="http://atastypixel.com/blog/wordpress/themes/elegant-grunge/?fromcreditlink" rel="designer">Michael Tyson</a>.			</div>
+		</div>
+	</div>
+</div><!-- #footer-wrap-outer -->
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201145.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'20265806',v:'ext',post:'0'});
+var load_cmc = function(){linktracker_init(20265806,0,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+</body>
+</html>

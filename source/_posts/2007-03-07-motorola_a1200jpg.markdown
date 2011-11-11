@@ -1,0 +1,15 @@
+---
+author: Arun Manivannan
+date: '2007-03-07 14:54:02'
+layout: post
+slug: motorola_a1200jpg
+status: inherit
+title: motorola_a1200.jpg
+wordpress_id: '137'
+? ''
+: - java
+  - Uncategorized
+---
+
+None
+

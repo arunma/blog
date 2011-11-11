@@ -1,0 +1,15 @@
+---
+author: Arun Manivannan
+date: '2007-05-29 03:10:07'
+layout: post
+slug: img_1147jpg
+status: inherit
+title: Looks are deceptive
+wordpress_id: '229'
+? ''
+: - java
+  - Uncategorized
+---
+
+None
+

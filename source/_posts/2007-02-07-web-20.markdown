@@ -1,0 +1,19 @@
+---
+author: Arun Manivannan
+date: '2007-02-07 02:32:24'
+layout: post
+slug: web-20
+status: publish
+title: Web 2.0
+wordpress_id: '54'
+? ''
+: - web 2.0
+---
+
+A very very cool video. Web 2.0 explained simple.
+
+Please do check [http://en.wikipedia.org/wiki/Web_2][1]
+
+
+   [1]: http://en.wikipedia.org/wiki/Web_2
+

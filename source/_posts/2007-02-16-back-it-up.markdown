@@ -1,0 +1,42 @@
+---
+author: Arun Manivannan
+date: '2007-02-16 00:43:44'
+layout: post
+slug: back-it-up
+status: publish
+title: Back it up
+wordpress_id: '86'
+? ''
+: - ajax
+  - java
+  - website
+---
+
+[http://www.youbackitup.com/][1]
+
+This site really drove me crazy. AJAX based drag and drop and then upload is
+completely taken care by Java. The centre "Drop your files here" is nothing
+but an Java applet. Just View source it to see this....
+
+
+    <object type="application/x-java-applet;version=1.4.1"
+
+                        width= "200" height= "200"  id="rup" name="rup">
+<param name="archive" value="dndplus.jar">
+
+
+                 <param name="code" value="com.radinks.dnd.DNDAppletPlus">
+
+After uploading you get a link for download. Just pass the URL to your friends
+and enjoy.
+
+[![backitup][2]][3]
+
+   [1]: http://www.youbackitup.com/
+
+   [2]: http://www.arunma.com/wp-
+content/uploads/2007/02/youbackitup.thumbnail.png
+
+   [3]: http://www.arunma.com/wp-content/uploads/2007/02/youbackitup.png
+(backitup)
+

@@ -1,0 +1,38 @@
+---
+author: Arun Manivannan
+date: '2007-02-06 02:21:58'
+layout: post
+slug: '50'
+status: publish
+title: Its fast. Its beautiful. Its Camino.
+wordpress_id: '52'
+? ''
+: - camino
+  - Firefox
+  - Uncategorized
+---
+
+Just like Swiftfox is an optimized version of Firefox on Linux, that gives, if
+not mindblowing, a faster response time compared to Firefox, here comes the
+Camino for Mac. The sexiest thing about Camino is that it gives that Aqua look
+of Mac with most of the features of Firefox built it : spell checking, single
+window mode, bookmarks back-up, session saving. Though in its Alpha release,
+[CNET][1] has already rated Camino as a better alternative to Safari, the
+default browser for Mac.
+
+Unlike its family members, Camino is built on Mac native Cocoa APIs and not on
+the XML User Interface Language (XUL). This means that the browser will be
+faster on Mac. But this also means that the add-ons that we use on Firefox
+cannot be used on this browser since all the add-ons are built on XUL.
+
+[![camino][2]][3]
+
+   [1]: http://reviews.cnet.com/Camino/4505-3513_7-30460799.html?tag=sub
+(Camino review)
+
+   [2]: http://www.arunma.com/wp-
+content/uploads/2007/02/caminopreview.thumbnail.png
+
+   [3]: http://www.arunma.com/wp-content/uploads/2007/02/caminopreview.png
+(camino)
+

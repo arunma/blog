@@ -1,0 +1,15 @@
+---
+author: Arun Manivannan
+date: '2007-07-31 08:50:32'
+layout: post
+slug: orkutjpg
+status: inherit
+title: orkut.JPG
+wordpress_id: '241'
+? ''
+: - java
+  - Uncategorized
+---
+
+None
+

@@ -1,0 +1,138 @@
+---
+author: Arun Manivannan
+date: '2007-02-03 12:51:21'
+layout: post
+slug: '13'
+status: publish
+title: Strange UPDATE clause in Oracle
+wordpress_id: '15'
+? ''
+: - merge clause
+  - oracle
+  - update clause
+---
+
+I knew most people know of this feature in Oracle but yet i just wanted to
+refresh your mind on this little yet powerful statement.
+
+I just got reminded of this today because frankly this is the first time i am
+using it in work. We had a table something resembling the following structure.
+
+[![All records][1]][2]
+
+CHILDID is the unique id of a person with name NAME. His manager or his parent
+is denoted by the value in the PARENTID. NULL values in the PARENTID indicate
+that he is the "BIGGEST PARENT".
+
+We had this requirement. Pick up a childid somewhere in the middle of the
+hierarchy, say 103 and find his "root" parent. Meaning the parent of the
+parent of the parent (or the parent where the hierarchy ends).
+
+Of course we can put a series of subqueries if we know the depth of the
+hierarchy. But Oracle provides this wonderful pseudocolumn called LEVEL and a
+few notable clauses.
+
+Here is the syntax of the statement (Never mind. Syntaxes are always
+headaches).
+
+Syntax:
+
+SELECT... [START WITH initial_condition] CONNECT BY PRIOR recurse_condition
+
+Key:
+
+START WITH : The row(s) to be used as the root of the hierarchy
+
+CONNECT BY : Condition that identifies the relationship between parent and
+child rows of the hierarchy
+
+The PRIOR keyword can be on either side of the = operator.
+
+Done with Syntax.
+
+Here we go,
+
+CONNECT BY PRIOR childid=parentid will return a TOP-DOWN hierarchical results
+wherein the resultset starts with your child being the top most person and
+displays all the children of your childid.
+
+i.e.  SELECT LEVEL, NAME, CHILDID FROM RELATIONSHIP START WITH CHILDID=103
+CONNECT BY PRIOR CHILDID=PARENTID;
+
+will return
+
+[![child id parent id][3]][4]
+
+CONNECT BY PRIOR parentid=childid will give BOTTOM-UP results. So, this the
+query we wanted ...
+
+SELECT LEVEL, NAME, CHILDID FROM RELATIONSHIP START WITH CHILDID=103 CONNECT
+BY PRIOR PARENTID=CHILDID;
+
+[![parent id child id][5]][6]
+
+The LEVEL pseducolumn returns a number indicating the level in the heirarchy:
+1 for a root row, 2 for a child of a root, and so on. As we already know what
+we put after the START WITH statement becomes the root of the hierarchy.
+
+Now, that we want the root parent, i just put a small hack around (I really
+dont know whether the following query is the most optimal one but yet gave
+what i really needed)
+
+SELECT * FROM (SELECT LEVEL, NAME, CHILDID FROM RELATIONSHIP START WITH
+CHILDID=103 CONNECT BY PRIOR PARENTID=CHILDID ORDER BY LEVEL DESC) WHERE
+ROWNUM<2>
+
+(I am just using our original derived query as a view and extracting the top
+most record -- forgot to mention the ORDER BY clause). Here comes what was
+needed.
+
+[![derived][7]][8]
+
+Here is the complete SQL i used
+
+--Table creation CREATE TABLE RELATIONSHIP (CHILDID NUMBER, NAME VARCHAR2(50),
+PARENTID NUMBER)
+
+--Population INSERT INTO RELATIONSHIP VALUES (100, 'ARUN', NULL); INSERT INTO
+RELATIONSHIP VALUES (101, 'CHILD OF ARUN', 100); INSERT INTO RELATIONSHIP
+VALUES (102, 'GRAND CHILD OF ARUN', 101); INSERT INTO RELATIONSHIP VALUES
+(103, 'GREAT GRAND CHILD OF ARUN', 102); INSERT INTO RELATIONSHIP VALUES (104,
+'GREAT GREAT GRAND CHILD OF ARUN', 103); INSERT INTO RELATIONSHIP VALUES
+(100123, 'NEVER KNEW WHO THIS IS', 143143);
+
+-- Verification SELECT * FROM RELATIONSHIP
+
+--Top down results SELECT LEVEL, NAME, CHILDID FROM RELATIONSHIP START WITH
+CHILDID=103 CONNECT BY PRIOR CHILDID=PARENTID
+
+--Bottom up results SELECT LEVEL, NAME, CHILDID FROM RELATIONSHIP START WITH
+CHILDID=103 CONNECT BY PRIOR PARENTID=CHILDID
+
+--Derived query
+
+SELECT * FROM (SELECT LEVEL, NAME, CHILDID FROM RELATIONSHIP START WITH
+CHILDID=103 CONNECT BY PRIOR PARENTID=CHILDID ORDER BY LEVEL DESC) WHERE
+ROWNUM<2
+
+   [1]: http://beanpicks.wordpress.com/files/2007/02/allrecords.thumbnail.png
+
+   [2]: http://beanpicks.wordpress.com/files/2007/02/allrecords.png (All
+records)
+
+   [3]:
+http://beanpicks.wordpress.com/files/2007/02/childid_parentid.thumbnail.png
+
+   [4]: http://beanpicks.wordpress.com/files/2007/02/childid_parentid.png
+(child id parent id)
+
+   [5]:
+http://beanpicks.wordpress.com/files/2007/02/parentid_childid.thumbnail.png
+
+   [6]: http://beanpicks.wordpress.com/files/2007/02/parentid_childid.png
+(parent id child id)
+
+   [7]: http://beanpicks.wordpress.com/files/2007/02/derived.thumbnail.png
+
+   [8]: http://beanpicks.wordpress.com/files/2007/02/derived.png (derived)
+

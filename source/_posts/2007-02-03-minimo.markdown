@@ -1,0 +1,14 @@
+---
+author: Arun Manivannan
+date: '2007-02-03 18:32:52'
+layout: post
+slug: minimo
+status: inherit
+title: minimo
+wordpress_id: '36'
+? ''
+: - Uncategorized
+---
+
+None
+
