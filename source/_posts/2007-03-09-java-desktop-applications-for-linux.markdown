@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-09 02:15:16'
 layout: post
+comments: true
 slug: java-desktop-applications-for-linux
 status: publish
 title: Java desktop applications for Linux

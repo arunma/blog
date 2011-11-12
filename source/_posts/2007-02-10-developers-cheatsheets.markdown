@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-10 01:56:04'
 layout: post
+comments: true
 slug: developers-cheatsheets
 status: publish
 title: Developer’s Cheatsheets

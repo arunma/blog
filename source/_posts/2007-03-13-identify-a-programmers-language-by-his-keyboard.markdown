@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-13 02:35:46'
 layout: post
+comments: true
 slug: identify-a-programmers-language-by-his-keyboard
 status: publish
 title: Identify a programmer’s language by his keyboard ;-)

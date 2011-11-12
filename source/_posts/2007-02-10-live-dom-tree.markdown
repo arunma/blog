@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-10 01:59:27'
 layout: post
+comments: true
 slug: live-dom-tree
 status: publish
 title: Live DOM Tree

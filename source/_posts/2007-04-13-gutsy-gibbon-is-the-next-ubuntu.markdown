@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-04-13 01:15:04'
 layout: post
+comments: true
 slug: gutsy-gibbon-is-the-next-ubuntu
 status: publish
 title: Gutsy Gibbon is the next Ubuntu

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 18:42:13'
 layout: post
+comments: true
 slug: webrowset-playing-xml-with-database
 status: publish
 title: WebRowSet — Playing XML with Database

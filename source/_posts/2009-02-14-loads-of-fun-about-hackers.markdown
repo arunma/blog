@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-02-14 10:14:43'
 layout: post
+comments: true
 slug: loads-of-fun-about-hackers
 status: publish
 title: Loads of fun about hackers

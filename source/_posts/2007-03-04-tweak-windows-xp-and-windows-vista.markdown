@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-04 01:31:33'
 layout: post
+comments: true
 slug: tweak-windows-xp-and-windows-vista
 status: publish
 title: Tweak Windows XP and Windows Vista

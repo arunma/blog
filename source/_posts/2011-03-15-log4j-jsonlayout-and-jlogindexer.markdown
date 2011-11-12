@@ -2,6 +2,7 @@
 author: admin
 date: '2011-03-15 02:17:01'
 layout: post
+comments: true
 slug: log4j-jsonlayout-and-jlogindexer
 status: publish
 title: log4j JSONLayout and JLogIndexer
@@ -57,6 +58,5 @@ This weekend should be pretty awesome then.
 
    [3]: http://wiki.fasterxml.com/JacksonDownload
 
-   [4]: http://activemq.apache.org/connectivity.html (ActiveMQ connectivity
-options)
+   [4]: http://activemq.apache.org/connectivity.html
 

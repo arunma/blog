@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-06 01:13:20'
 layout: post
+comments: true
 slug: avoid-caching-in-internet-explorer-for-ajax-requests
 status: publish
 title: Avoid caching in Internet Explorer for AJAX requests

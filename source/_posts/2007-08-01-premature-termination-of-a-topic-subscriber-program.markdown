@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-01 00:28:25'
 layout: post
+comments: true
 slug: premature-termination-of-a-topic-subscriber-program
 status: publish
 title: Premature termination of a Topic Subscriber program

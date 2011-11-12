@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-10 15:23:32'
 layout: post
+comments: true
 slug: 10-things-your-it-guy-wants-you-to-know
 status: publish
 title: 10 things your IT guy wants you to know

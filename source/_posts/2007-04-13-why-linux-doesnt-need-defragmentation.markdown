@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-04-13 03:14:29'
 layout: post
+comments: true
 slug: why-linux-doesnt-need-defragmentation
 status: publish
 title: Why Linux doesn’t need defragmentation?

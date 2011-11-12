@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 10:38:35'
 layout: post
+comments: true
 slug: eclipse-the-forgotten-path
 status: publish
 title: Eclipse.. the forgotten path

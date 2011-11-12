@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-06-11 08:04:52'
 layout: post
+comments: true
 slug: exit-code-for-java-programs-errorlevel-status-csh
 status: publish
 title: Exit code for Java programs -- ERRORLEVEL, $?, $status

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-05-01 20:25:30'
 layout: post
+comments: true
 slug: windows-vista-home-premium-unable-to-uninstall-software
 status: publish
 title: Windows Vista Home Premium — Unable to uninstall software

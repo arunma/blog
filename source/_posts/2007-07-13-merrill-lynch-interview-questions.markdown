@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-07-13 12:26:44'
 layout: post
+comments: true
 slug: merrill-lynch-interview-questions
 status: publish
 title: Merrill Lynch interview questions

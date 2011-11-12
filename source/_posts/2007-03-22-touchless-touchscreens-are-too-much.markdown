@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-22 00:01:32'
 layout: post
+comments: true
 slug: touchless-touchscreens-are-too-much
 status: publish
 title: Touchless touchscreens are too much !!!

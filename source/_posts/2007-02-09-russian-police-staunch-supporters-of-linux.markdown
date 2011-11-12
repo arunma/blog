@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-09 01:37:44'
 layout: post
+comments: true
 slug: russian-police-staunch-supporters-of-linux
 status: publish
 title: Russian Police — staunch supporters of Linux ;-)

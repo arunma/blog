@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 12:53:18'
 layout: post
+comments: true
 slug: gravity-might-pull-apple-to-ground
 status: publish
 title: Gravity might pull Apple to ground…

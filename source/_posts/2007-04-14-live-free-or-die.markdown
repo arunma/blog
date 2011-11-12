@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-04-14 01:46:33'
 layout: post
+comments: true
 slug: live-free-or-die
 status: publish
 title: Live free or Die.

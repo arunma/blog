@@ -2,6 +2,7 @@
 author: admin
 date: '2011-04-10 17:25:04'
 layout: post
+comments: true
 slug: flexing-time-to-the-extreme
 status: publish
 title: Flexing time to the extreme
@@ -91,9 +92,7 @@ that's a little too much boasting even for me).
 
    [1]: http://en.wikipedia.org/wiki/Flow_%28psychology%29
 
-   [2]: http://stackoverflow.com/questions/876089/who-wrote-this-programing-
-saying-always-code-as-if-the-guy-who-ends-up-maintain
+   [2]: http://stackoverflow.com/questions/876089/who-wrote-this-programing-saying-always-code-as-if-the-guy-who-ends-up-maintain
 
-   [3]: http://www.extremelinux.info/stonesoup/stonesoup.html (Stone soup
-story)
+   [3]: http://www.extremelinux.info/stonesoup/stonesoup.html
 

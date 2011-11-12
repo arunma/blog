@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-11 23:33:42'
 layout: post
+comments: true
 slug: picks-from-the-net
 status: publish
 title: Random picks from the net

@@ -2,6 +2,7 @@
 author: admin
 date: '2011-02-26 23:02:20'
 layout: post
+comments: true
 slug: log4j-log-indexing-using-solr
 status: publish
 title: log4j Log Indexing using Solr

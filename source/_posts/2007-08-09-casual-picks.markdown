@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-09 13:02:17'
 layout: post
+comments: true
 slug: casual-picks
 status: publish
 title: Casual picks

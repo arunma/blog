@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2010-09-12 15:40:32'
 layout: post
+comments: true
 slug: shutdown-windows-xp-from-remote-desktopvpn-connection
 status: publish
 title: Shutdown Windows XP from Remote Desktop/VPN Connection

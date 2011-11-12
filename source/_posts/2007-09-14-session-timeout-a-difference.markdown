@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-09-14 23:15:53'
 layout: post
+comments: true
 slug: session-timeout-a-difference
 status: publish
 title: Session Timeout - A difference

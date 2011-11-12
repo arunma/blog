@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-10-27 11:58:57'
 layout: post
+comments: true
 slug: configuring-hbase-as-standalone-using-local-file-system
 status: publish
 title: Configuring HBase as standalone (using local file system)

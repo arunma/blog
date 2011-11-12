@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-27 02:07:10'
 layout: post
+comments: true
 slug: turn-your-laptops-touchscreens
 status: publish
 title: Turn your laptops touchscreens

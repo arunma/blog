@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-01-24 18:44:43'
 layout: post
+comments: true
 slug: processing-files-over-network-slows-down-programs-part-2
 status: publish
 title: Processing files over network slows down programs — Part 2

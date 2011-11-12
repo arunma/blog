@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-04-03 08:49:15'
 layout: post
+comments: true
 slug: in-a-new-world
 status: publish
 title: In a new world…

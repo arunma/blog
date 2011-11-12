@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-02 14:55:01'
 layout: post
+comments: true
 slug: deletecopy-old-folders-in-unix
 status: publish
 title: Delete/Copy old folders in Unix

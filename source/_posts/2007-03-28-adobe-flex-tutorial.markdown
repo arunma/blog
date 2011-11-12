@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-28 01:07:33'
 layout: post
+comments: true
 slug: adobe-flex-tutorial
 status: publish
 title: Adobe Flex Tutorial

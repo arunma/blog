@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-11 00:31:01'
 layout: post
+comments: true
 slug: yahoo-pipes-pipes-the-net
 status: publish
 title: Yahoo Pipes. Pipes the net.

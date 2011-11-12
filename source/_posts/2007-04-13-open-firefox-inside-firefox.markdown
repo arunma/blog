@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-04-13 21:11:44'
 layout: post
+comments: true
 slug: open-firefox-inside-firefox
 status: publish
 title: Open Firefox inside Firefox

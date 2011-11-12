@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-22 01:49:59'
 layout: post
+comments: true
 slug: is-adobe-flex-really-the-future-of-the-web
 status: publish
 title: Is Adobe Flex really the future of the Web?

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-04-27 00:17:39'
 layout: post
+comments: true
 slug: adobe-open-sources-flex
 status: publish
 title: Adobe open sources Flex

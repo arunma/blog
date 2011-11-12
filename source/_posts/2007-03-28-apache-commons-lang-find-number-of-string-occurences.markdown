@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-28 02:06:56'
 layout: post
+comments: true
 slug: apache-commons-lang-find-number-of-string-occurences
 status: publish
 title: Apache Commons Lang - Find number of String occurences

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-14 23:00:12'
 layout: post
+comments: true
 slug: firefox-hits-the-300-million-mark-in-2-years
 status: publish
 title: Firefox hits the 300 million mark in 2 years

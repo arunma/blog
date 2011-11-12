@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2010-01-06 12:13:14'
 layout: post
+comments: true
 slug: installing-flash-without-admin-rights
 status: publish
 title: Installing Flash without Admin rights

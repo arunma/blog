@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-04-09 02:33:13'
 layout: post
+comments: true
 slug: gaim-is-now-pidgin
 status: publish
 title: Gaim is now Pidgin

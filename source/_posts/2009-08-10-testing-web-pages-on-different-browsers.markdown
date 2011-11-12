@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-08-10 14:35:04'
 layout: post
+comments: true
 slug: testing-web-pages-on-different-browsers
 status: publish
 title: Testing web pages on different browsers

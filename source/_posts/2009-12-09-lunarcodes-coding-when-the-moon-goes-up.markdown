@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-12-09 03:37:44'
 layout: post
+comments: true
 slug: lunarcodes-coding-when-the-moon-goes-up
 status: publish
 title: Lunarcodes - Coding when the moon goes up

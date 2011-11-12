@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-08 02:18:18'
 layout: post
+comments: true
 slug: iphone-runs-on-os-x-what-about-ipod
 status: publish
 title: iPhone runs on OS X. What about iPod ;-)

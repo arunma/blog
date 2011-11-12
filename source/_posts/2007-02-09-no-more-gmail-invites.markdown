@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-09 02:14:43'
 layout: post
+comments: true
 slug: no-more-gmail-invites
 status: publish
 title: No more Gmail invites

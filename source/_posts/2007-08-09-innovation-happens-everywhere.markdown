@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-09 11:44:10'
 layout: post
+comments: true
 slug: innovation-happens-everywhere
 status: publish
 title: Innovation happens everywhere

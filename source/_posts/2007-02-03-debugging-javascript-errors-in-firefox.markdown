@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 18:37:28'
 layout: post
+comments: true
 slug: debugging-javascript-errors-in-firefox
 status: publish
 title: Debugging Javascript errors in Firefox

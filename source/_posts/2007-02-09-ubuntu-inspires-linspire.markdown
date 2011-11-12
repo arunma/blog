@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-09 02:44:52'
 layout: post
+comments: true
 slug: ubuntu-inspires-linspire
 status: publish
 title: Ubuntu inspires Linspire

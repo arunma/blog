@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-08 23:26:45'
 layout: post
+comments: true
 slug: netvibes-web-20-to-the-core
 status: publish
 title: NetVibes — Web 2.0 to the core

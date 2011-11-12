@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-11 01:03:33'
 layout: post
+comments: true
 slug: peek-view-of-java-70-dolphin
 status: publish
 title: Peek view of Java 7.0 (Dolphin)

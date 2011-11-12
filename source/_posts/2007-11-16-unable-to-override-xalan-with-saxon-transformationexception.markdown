@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-11-16 13:18:42'
 layout: post
+comments: true
 slug: unable-to-override-xalan-with-saxon-transformationexception
 status: publish
 title: Unable to override Xalan with Saxon - TransformationException

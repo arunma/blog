@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 21:18:42'
 layout: post
+comments: true
 slug: sub-domain-parked-domain-and-add-on-domain
 status: publish
 title: Sub domain, Parked domain and Add on domain

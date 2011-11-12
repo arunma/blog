@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-02-14 06:33:19'
 layout: post
+comments: true
 slug: cuba-says-no-to-microsoft
 status: publish
 title: Cuba says "No" to Microsoft

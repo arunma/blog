@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-04 03:01:43'
 layout: post
+comments: true
 slug: linuxunix-command-line-crash-course
 status: publish
 title: Linux/Unix command line crash course

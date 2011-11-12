@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-07 14:57:52'
 layout: post
+comments: true
 slug: whats-common-in-these-phones
 status: publish
 title: Whats common in these phones?

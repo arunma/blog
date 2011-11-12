@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-07-31 00:30:36'
 layout: post
+comments: true
 slug: abstract-class-inside-an-interface-interface-inside-an-abstract-class
 status: publish
 title: Abstract Class inside an Interface??? Interface inside an Abstract class???

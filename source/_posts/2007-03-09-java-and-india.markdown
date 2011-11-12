@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-09 02:25:01'
 layout: post
+comments: true
 slug: java-and-india
 status: publish
 title: Java and India

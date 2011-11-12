@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-09 18:18:21'
 layout: post
+comments: true
 slug: whining-from-an-indian-developer
 status: publish
 title: Whining from a “cheap” Indian developer

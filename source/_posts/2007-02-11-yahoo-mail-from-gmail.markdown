@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-11 23:56:56'
 layout: post
+comments: true
 slug: yahoo-mail-from-gmail
 status: publish
 title: Yahoo mail from Gmail?

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-12-15 17:19:19'
 layout: post
+comments: true
 slug: fej2me-upcoming-tasks
 status: publish
 title: Fej2Me - Upcoming tasks

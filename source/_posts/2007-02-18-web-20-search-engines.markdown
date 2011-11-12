@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-18 23:58:57'
 layout: post
+comments: true
 slug: web-20-search-engines
 status: publish
 title: Web 2.0 search engines

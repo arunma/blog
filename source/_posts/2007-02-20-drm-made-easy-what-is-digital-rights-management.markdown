@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-20 00:29:23'
 layout: post
+comments: true
 slug: drm-made-easy-what-is-digital-rights-management
 status: publish
 title: DRM made easy… What is Digital Rights Management?

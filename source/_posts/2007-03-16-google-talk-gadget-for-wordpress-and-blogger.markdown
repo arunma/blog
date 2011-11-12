@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-16 23:18:16'
 layout: post
+comments: true
 slug: google-talk-gadget-for-wordpress-and-blogger
 status: publish
 title: Google talk gadget for Wordpress and Blogger

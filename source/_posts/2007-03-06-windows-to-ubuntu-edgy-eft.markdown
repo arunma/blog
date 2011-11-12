@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-06 01:51:26'
 layout: post
+comments: true
 slug: windows-to-ubuntu-edgy-eft
 status: publish
 title: Windows to Ubuntu Edgy Eft

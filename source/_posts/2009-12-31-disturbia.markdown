@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-12-31 12:40:12'
 layout: post
+comments: true
 slug: disturbia
 status: publish
 title: Disturbia

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-14 02:06:06'
 layout: post
+comments: true
 slug: http-methods-delete-get-head-put-post-too-good
 status: publish
 title: HTTP Methods - DELETE, GET, HEAD, PUT, POST — Too good

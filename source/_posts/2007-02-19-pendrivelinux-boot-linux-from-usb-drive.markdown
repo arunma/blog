@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-19 00:31:36'
 layout: post
+comments: true
 slug: pendrivelinux-boot-linux-from-usb-drive
 status: publish
 title: PenDriveLinux - boot Linux from USB drive

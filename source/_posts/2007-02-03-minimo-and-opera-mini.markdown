@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 18:33:06'
 layout: post
+comments: true
 slug: minimo-and-opera-mini
 status: publish
 title: Minimo and Opera Mini

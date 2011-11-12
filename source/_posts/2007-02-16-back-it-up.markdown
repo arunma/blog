@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-16 00:43:44'
 layout: post
+comments: true
 slug: back-it-up
 status: publish
 title: Back it up

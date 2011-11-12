@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-09 12:22:53'
 layout: post
+comments: true
 slug: delicious-search
 status: publish
 title: del.icio.us search

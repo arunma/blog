@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-03 19:48:59'
 layout: post
+comments: true
 slug: interchange-column-values-in-a-single-update-query
 status: publish
 title: Interchange column values in a single update query

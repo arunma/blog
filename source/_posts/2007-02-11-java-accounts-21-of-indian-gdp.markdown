@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-11 00:52:31'
 layout: post
+comments: true
 slug: java-accounts-21-of-indian-gdp
 status: publish
 title: Java accounts 2.1% of Indian GDP

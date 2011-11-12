@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-20 00:30:46'
 layout: post
+comments: true
 slug: crashing-ie-is-that-easy
 status: publish
 title: Crashing IE is that easy. ;-)

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 12:54:20'
 layout: post
+comments: true
 slug: google-ads-on-hoardings
 status: publish
 title: Google ads on hoardings…

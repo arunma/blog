@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-25 04:53:20'
 layout: post
+comments: true
 slug: zimbra-its-just-not-open-source-email
 status: publish
 title: Zimbra — It’s just not an open source email program

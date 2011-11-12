@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-16 01:16:26'
 layout: post
+comments: true
 slug: ubuntu-on-tap-hehehe
 status: publish
 title: Ubuntu on tap .. hehehe

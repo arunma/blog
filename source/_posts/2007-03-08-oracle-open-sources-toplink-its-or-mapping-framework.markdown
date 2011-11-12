@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-08 10:45:31'
 layout: post
+comments: true
 slug: oracle-open-sources-toplink-its-or-mapping-framework
 status: publish
 title: Oracle open sources Toplink - Its OR Mapping framework

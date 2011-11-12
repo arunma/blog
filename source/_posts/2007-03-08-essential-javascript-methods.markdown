@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-08 03:54:36'
 layout: post
+comments: true
 slug: essential-javascript-methods
 status: publish
 title: Essential Javascript methods

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-08 23:51:19'
 layout: post
+comments: true
 slug: allpeers-goes-open-source
 status: publish
 title: AllPeers goes Open source — P2P sharing on browser

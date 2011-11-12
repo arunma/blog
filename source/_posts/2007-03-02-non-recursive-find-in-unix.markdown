@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-02 15:05:38'
 layout: post
+comments: true
 slug: non-recursive-find-in-unix
 status: publish
 title: Non-recursive find in Unix

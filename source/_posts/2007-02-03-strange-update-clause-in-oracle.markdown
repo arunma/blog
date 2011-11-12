@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 12:56:01'
 layout: post
+comments: true
 slug: strange-update-clause-in-oracle
 status: publish
 title: Strange UPDATE clause in Oracle

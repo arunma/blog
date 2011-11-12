@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2010-03-04 16:59:01'
 layout: post
+comments: true
 slug: last-day-with-credit-suisse
 status: publish
 title: Last day with Credit Suisse

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-04 02:47:35'
 layout: post
+comments: true
 slug: compare-linux-distros
 status: publish
 title: Compare Linux distros

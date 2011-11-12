@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-11-05 03:51:33'
 layout: post
+comments: true
 slug: is-brain-multicore
 status: publish
 title: Is brain multicore?

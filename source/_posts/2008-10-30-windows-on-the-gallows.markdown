@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-10-30 14:20:06'
 layout: post
+comments: true
 slug: windows-on-the-gallows
 status: publish
 title: Windows on the Gallows

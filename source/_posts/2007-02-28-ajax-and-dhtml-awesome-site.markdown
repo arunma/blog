@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-28 02:56:23'
 layout: post
+comments: true
 slug: ajax-and-dhtml-awesome-site
 status: publish
 title: AJAX and DHTML — Awesome site

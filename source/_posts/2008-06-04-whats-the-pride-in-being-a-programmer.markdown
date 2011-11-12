@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-06-04 08:28:54'
 layout: post
+comments: true
 slug: whats-the-pride-in-being-a-programmer
 status: publish
 title: What's the pride in being a Programmer?

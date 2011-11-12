@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-29 09:45:25'
 layout: post
+comments: true
 slug: stack-trace-without-line-numbers-unknown-source
 status: publish
 title: Stack trace without line numbers — Unknown Source

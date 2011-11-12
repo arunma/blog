@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-15 00:27:02'
 layout: post
+comments: true
 slug: java-generics-tutorial
 status: publish
 title: Java Generics Tutorial

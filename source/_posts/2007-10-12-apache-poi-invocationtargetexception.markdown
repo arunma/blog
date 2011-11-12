@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-10-12 19:12:44'
 layout: post
+comments: true
 slug: apache-poi-invocationtargetexception
 status: publish
 title: Apache POI InvocationTargetException

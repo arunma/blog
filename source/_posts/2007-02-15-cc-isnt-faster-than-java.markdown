@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-15 00:12:34'
 layout: post
+comments: true
 slug: cc-isnt-faster-than-java
 status: publish
 title: C/C++ isnt faster than Java

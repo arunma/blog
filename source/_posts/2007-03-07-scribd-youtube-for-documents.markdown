@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-07 14:40:16'
 layout: post
+comments: true
 slug: scribd-youtube-for-documents
 status: publish
 title: Scribd - Youtube for documents?

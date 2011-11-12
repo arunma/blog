@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-07 10:11:28'
 layout: post
+comments: true
 slug: microsoft-sql-server-tweakssecurity-holes
 status: publish
 title: Microsoft SQL Server tweaks/security holes?

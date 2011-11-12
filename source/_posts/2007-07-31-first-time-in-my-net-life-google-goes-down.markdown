@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-07-31 08:53:41'
 layout: post
+comments: true
 slug: first-time-in-my-net-life-google-goes-down
 status: publish
 title: First time in my net life. Google goes down…

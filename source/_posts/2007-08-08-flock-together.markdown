@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-08 12:59:11'
 layout: post
+comments: true
 slug: flock-together
 status: publish
 title: Flock “together”

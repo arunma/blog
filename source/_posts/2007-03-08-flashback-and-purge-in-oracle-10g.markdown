@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-08 04:17:44'
 layout: post
+comments: true
 slug: flashback-and-purge-in-oracle-10g
 status: publish
 title: Flashback and Purge in Oracle 10g

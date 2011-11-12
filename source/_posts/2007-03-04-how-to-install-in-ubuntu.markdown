@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-04 02:49:38'
 layout: post
+comments: true
 slug: how-to-install-in-ubuntu
 status: publish
 title: How to install in Ubuntu?

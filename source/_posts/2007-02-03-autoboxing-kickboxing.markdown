@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 18:33:55'
 layout: post
+comments: true
 slug: autoboxing-kickboxing
 status: publish
 title: Autoboxing Kickboxing ;-)

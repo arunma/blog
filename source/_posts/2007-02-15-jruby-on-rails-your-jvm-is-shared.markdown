@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-15 01:01:42'
 layout: post
+comments: true
 slug: jruby-on-rails-your-jvm-is-shared
 status: publish
 title: JRuby on Rails. Your JVM is shared !!!

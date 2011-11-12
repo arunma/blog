@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-05-18 02:16:48'
 layout: post
+comments: true
 slug: hold-variables-across-page-refreshes-in-javascript-the-infamous-close-all-functionality
 status: publish
 title: Hold variables across page refreshes in Javascript — The infamous “Close All”

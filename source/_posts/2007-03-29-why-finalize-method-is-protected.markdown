@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-29 09:22:15'
 layout: post
+comments: true
 slug: why-finalize-method-is-protected
 status: publish
 title: Why finalize method is protected?

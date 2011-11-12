@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-05-11 01:29:57'
 layout: post
+comments: true
 slug: junk-values-during-excel-exportimage-display
 status: publish
 title: Junk values during Excel export/Image display

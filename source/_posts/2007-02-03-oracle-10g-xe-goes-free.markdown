@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 12:42:38'
 layout: post
+comments: true
 slug: oracle-10g-xe-goes-free
 status: publish
 title: Oracle 10g XE goes free

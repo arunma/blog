@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-05-11 16:10:43'
 layout: post
+comments: true
 slug: poweriso-for-linux-unrecognized-parameter-error
 status: publish
 title: PowerISO for Linux (Unrecognized Parameter error)

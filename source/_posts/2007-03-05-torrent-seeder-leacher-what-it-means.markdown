@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-05 01:26:22'
 layout: post
+comments: true
 slug: torrent-seeder-leacher-what-it-means
 status: publish
 title: Torrent Seeder Leecher - What it means?

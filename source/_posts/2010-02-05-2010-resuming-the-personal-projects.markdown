@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2010-02-05 17:46:42'
 layout: post
+comments: true
 slug: 2010-resuming-the-personal-projects
 status: publish
 title: 2010 - Resuming the personal projects

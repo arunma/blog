@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2010-05-26 20:45:49'
 layout: post
+comments: true
 slug: why-google-opensourced-vp8
 status: publish
 title: Why Google opensourced VP8?

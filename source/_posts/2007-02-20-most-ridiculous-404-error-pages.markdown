@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-20 00:20:35'
 layout: post
+comments: true
 slug: most-ridiculous-404-error-pages
 status: publish
 title: Most ridiculous 404 error pages

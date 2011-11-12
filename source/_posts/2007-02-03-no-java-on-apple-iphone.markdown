@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 13:07:22'
 layout: post
+comments: true
 slug: no-java-on-apple-iphone
 status: publish
 title: No Java on Apple iPhone

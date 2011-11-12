@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-07 14:20:33'
 layout: post
+comments: true
 slug: windows-vista-aero-vs-ubuntu-beryl
 status: publish
 title: Windows Vista Aero vs Ubuntu Beryl

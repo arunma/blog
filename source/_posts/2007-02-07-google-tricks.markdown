@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-07 01:45:28'
 layout: post
+comments: true
 slug: google-tricks
 status: publish
 title: Google tricks

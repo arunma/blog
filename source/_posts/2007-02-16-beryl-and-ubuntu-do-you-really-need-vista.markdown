@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-16 01:20:49'
 layout: post
+comments: true
 slug: beryl-and-ubuntu-do-you-really-need-vista
 status: publish
 title: Beryl and Ubuntu — Do you really need Vista?

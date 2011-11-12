@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-07 02:32:24'
 layout: post
+comments: true
 slug: web-20
 status: publish
 title: Web 2.0

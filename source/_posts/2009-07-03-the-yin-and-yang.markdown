@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-07-03 07:02:17'
 layout: post
+comments: true
 slug: the-yin-and-yang
 status: publish
 title: The Yin and Yang

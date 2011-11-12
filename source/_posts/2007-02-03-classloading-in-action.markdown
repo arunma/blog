@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 13:05:26'
 layout: post
+comments: true
 slug: classloading-in-action
 status: publish
 title: Classloading in action

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-07-17 16:35:23'
 layout: post
+comments: true
 slug: clear-browsing-history-for-the-past-1-hour-firefox
 status: publish
 title: Clear browsing history for the past 1 hour?? - Firefox

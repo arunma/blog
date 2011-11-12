@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-19 14:50:38'
 layout: post
+comments: true
 slug: is-piracy-illegal
 status: publish
 title: Is Piracy illegal?

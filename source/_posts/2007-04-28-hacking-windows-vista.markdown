@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-04-28 04:04:59'
 layout: post
+comments: true
 slug: hacking-windows-vista
 status: publish
 title: Hacking Windows Vista

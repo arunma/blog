@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-16 00:26:58'
 layout: post
+comments: true
 slug: ajax-dictionary-2
 status: publish
 title: Ajax dictionary

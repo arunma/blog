@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-19 23:50:04'
 layout: post
+comments: true
 slug: adobe-releases-apollo-alpha
 status: publish
 title: Adobe releases Apollo Alpha !!!

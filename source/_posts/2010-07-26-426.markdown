@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2010-07-26 15:43:37'
 layout: post
+comments: true
 slug: '426'
 status: publish
 title: 'Resolution : Apache commons configuration (XMLConfiguration) in a Spring bean'

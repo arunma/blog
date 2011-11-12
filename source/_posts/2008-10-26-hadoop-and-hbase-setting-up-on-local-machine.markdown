@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-10-26 12:47:51'
 layout: post
+comments: true
 slug: hadoop-and-hbase-setting-up-on-local-machine
 status: publish
 title: Hadoop and HBase - setting up as pseudo-distributed

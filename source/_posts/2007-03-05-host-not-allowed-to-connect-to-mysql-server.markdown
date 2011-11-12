@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-05 23:36:47'
 layout: post
+comments: true
 slug: host-not-allowed-to-connect-to-mysql-server
 status: publish
 title: Host not allowed to connect to mysql server

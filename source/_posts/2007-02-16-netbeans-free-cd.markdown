@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-16 00:49:05'
 layout: post
+comments: true
 slug: netbeans-free-cd
 status: publish
 title: Netbeans free CD

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-12 01:16:50'
 layout: post
+comments: true
 slug: red-hat-developer-studio-next-eclipse-distro
 status: publish
 title: Red Hat Developer Studio — Next Eclipse distro

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-10-26 12:51:32'
 layout: post
+comments: true
 slug: hbase-tutorial
 status: publish
 title: HBase Tutorial

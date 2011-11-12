@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-05-10 02:09:34'
 layout: post
+comments: true
 slug: working-with-apache-derby
 status: publish
 title: Working with Apache Derby

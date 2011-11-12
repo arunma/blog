@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-30 01:23:16'
 layout: post
+comments: true
 slug: how-to-look-smart-before-java-developers-a-managers-guide
 status: publish
 title: How to look smart before Java developers? — A manager’s guide

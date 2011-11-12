@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-04-09 00:33:15'
 layout: post
+comments: true
 slug: boot-mac-os-x-on-a-normal-pc
 status: publish
 title: Boot Mac OS X on a normal PC

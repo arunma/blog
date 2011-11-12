@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-05-29 03:32:44'
 layout: post
+comments: true
 slug: back-home
 status: publish
 title: Back Home !!!

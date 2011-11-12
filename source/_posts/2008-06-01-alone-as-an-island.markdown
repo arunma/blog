@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-06-01 14:38:22'
 layout: post
+comments: true
 slug: alone-as-an-island
 status: publish
 title: Alone as an Island

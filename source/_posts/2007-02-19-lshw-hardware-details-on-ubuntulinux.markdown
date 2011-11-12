@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-19 00:52:54'
 layout: post
+comments: true
 slug: lshw-hardware-details-on-ubuntulinux
 status: publish
 title: lshw - Hardware details on Ubuntu/Linux

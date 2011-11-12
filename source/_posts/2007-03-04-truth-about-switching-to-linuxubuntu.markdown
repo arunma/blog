@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-04 01:52:43'
 layout: post
+comments: true
 slug: truth-about-switching-to-linuxubuntu
 status: publish
 title: Truth about switching to Linux/Ubuntu

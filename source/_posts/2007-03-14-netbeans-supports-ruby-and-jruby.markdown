@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-14 01:19:23'
 layout: post
+comments: true
 slug: netbeans-supports-ruby-and-jruby
 status: publish
 title: NetBeans supports Ruby and JRuby

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-05-10 13:56:10'
 layout: post
+comments: true
 slug: middle-finger-for-microsoft
 status: publish
 title: Middle finger for Microsoft !!!

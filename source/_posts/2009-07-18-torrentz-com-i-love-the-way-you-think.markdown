@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-07-18 16:54:12'
 layout: post
+comments: true
 slug: torrentz-com-i-love-the-way-you-think
 status: publish
 title: Torrentz.com - I love the way you think

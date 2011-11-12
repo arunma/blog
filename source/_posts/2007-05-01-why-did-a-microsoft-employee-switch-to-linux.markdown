@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-05-01 08:45:26'
 layout: post
+comments: true
 slug: why-did-a-microsoft-employee-switch-to-linux
 status: publish
 title: Why did a Microsoft employee switch to Linux?

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-16 22:36:42'
 layout: post
+comments: true
 slug: all-peers-crashes-firefox
 status: publish
 title: AllPeers crashes Firefox

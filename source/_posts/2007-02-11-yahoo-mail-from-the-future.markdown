@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-11 00:08:50'
 layout: post
+comments: true
 slug: yahoo-mail-from-the-future
 status: publish
 title: Yahoo mail from the future

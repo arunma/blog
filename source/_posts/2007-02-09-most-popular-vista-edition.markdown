@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-09 02:03:10'
 layout: post
+comments: true
 slug: most-popular-vista-edition
 status: publish
 title: Most popular Vista Edition

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-04-24 07:39:39'
 layout: post
+comments: true
 slug: snapman-10-released
 status: publish
 title: SnapMan 1.0 released

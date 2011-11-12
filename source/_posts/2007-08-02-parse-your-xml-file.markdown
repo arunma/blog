@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-02 09:14:58'
 layout: post
+comments: true
 slug: parse-your-xml-file
 status: publish
 title: Parse your XML file

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-08-30 15:48:01'
 layout: post
+comments: true
 slug: there-goes-another-bill-gates
 status: publish
 title: There goes another Bill Gates !!!

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-14 01:10:25'
 layout: post
+comments: true
 slug: json-introduction-and-tutorial
 status: publish
 title: JSON Introduction and Tutorial

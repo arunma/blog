@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-02-05 22:56:16'
 layout: post
+comments: true
 slug: javaxnamingnamenotfoundexception-with-fscontext-finally-a-solution-found
 status: publish
 title: NameNotFoundException with FSContext

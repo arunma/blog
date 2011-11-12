@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-24 17:07:46'
 layout: post
+comments: true
 slug: future-of-java-or-future-of-the-web-2
 status: publish
 title: Future of Java or Future of the Web ? - 2

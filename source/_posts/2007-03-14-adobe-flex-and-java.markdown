@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-14 01:27:49'
 layout: post
+comments: true
 slug: adobe-flex-and-java
 status: publish
 title: Adobe Flex and Java

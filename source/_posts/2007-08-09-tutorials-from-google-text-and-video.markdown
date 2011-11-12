@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-09 22:58:42'
 layout: post
+comments: true
 slug: tutorials-from-google-text-and-video
 status: publish
 title: Tutorials from Google — Text and Video

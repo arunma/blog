@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 10:33:22'
 layout: post
+comments: true
 slug: war-of-the-worlds-ripples-from-openjdk
 status: publish
 title: War of the worlds — Ripples from OpenJDK

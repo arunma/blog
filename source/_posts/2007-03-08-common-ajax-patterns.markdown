@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-08 10:19:38'
 layout: post
+comments: true
 slug: common-ajax-patterns
 status: publish
 title: Common Ajax Patterns

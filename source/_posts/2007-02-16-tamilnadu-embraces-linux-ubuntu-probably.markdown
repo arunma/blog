@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-16 23:59:00'
 layout: post
+comments: true
 slug: tamilnadu-embraces-linux-ubuntu-probably
 status: publish
 title: Tamilnadu embraces Linux, Ubuntu probably.

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-19 12:54:58'
 layout: post
+comments: true
 slug: linux-truths-myths-and-lies
 status: publish
 title: Linux - Truths, Myths and Lies

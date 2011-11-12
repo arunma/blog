@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-18 23:16:23'
 layout: post
+comments: true
 slug: google-cheat-sheet
 status: publish
 title: Google cheat sheet

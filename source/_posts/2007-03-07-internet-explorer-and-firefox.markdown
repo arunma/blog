@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-07 10:35:17'
 layout: post
+comments: true
 slug: internet-explorer-and-firefox
 status: publish
 title: Internet Explorer and Firefox

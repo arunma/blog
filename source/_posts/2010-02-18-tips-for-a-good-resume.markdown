@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2010-02-18 12:16:59'
 layout: post
+comments: true
 slug: tips-for-a-good-resume
 status: publish
 title: Tips for a good resume

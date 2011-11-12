@@ -2,6 +2,7 @@
 author: admin
 date: '2011-02-15 17:47:21'
 layout: post
+comments: true
 slug: back-on-track-watch-our-for-updates
 status: publish
 title: Back on track - Watch out for updates

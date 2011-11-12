@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-29 00:13:14'
 layout: post
+comments: true
 slug: requesturi-and-url-pattern-matching
 status: publish
 title: RequestURI URL Pattern Matching

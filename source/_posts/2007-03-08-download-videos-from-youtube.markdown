@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-08 03:28:20'
 layout: post
+comments: true
 slug: download-videos-from-youtube
 status: publish
 title: Download videos from Youtube

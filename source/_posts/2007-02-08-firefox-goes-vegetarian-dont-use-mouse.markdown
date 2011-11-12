@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-08 01:05:16'
 layout: post
+comments: true
 slug: firefox-goes-vegetarian-dont-use-mouse
 status: publish
 title: Firefox goes Vegetarian. Dont use mouse.

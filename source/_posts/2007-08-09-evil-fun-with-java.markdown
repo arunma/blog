@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-09 15:26:56'
 layout: post
+comments: true
 slug: evil-fun-with-java
 status: publish
 title: Evil fun with Java ;-)

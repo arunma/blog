@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-28 03:22:05'
 layout: post
+comments: true
 slug: truths-about-mac
 status: publish
 title: Truths about Mac

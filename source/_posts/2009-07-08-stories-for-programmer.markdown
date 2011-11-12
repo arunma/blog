@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-07-08 14:44:45'
 layout: post
+comments: true
 slug: stories-for-programmer
 status: publish
 title: Stories for Programmer

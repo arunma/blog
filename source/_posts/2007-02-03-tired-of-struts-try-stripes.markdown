@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 13:06:40'
 layout: post
+comments: true
 slug: tired-of-struts-try-stripes
 status: publish
 title: Tired of Struts, try Stripes

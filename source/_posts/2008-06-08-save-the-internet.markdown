@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-06-08 06:58:13'
 layout: post
+comments: true
 slug: save-the-internet
 status: publish
 title: Save the Internet !!!

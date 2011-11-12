@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 13:06:10'
 layout: post
+comments: true
 slug: rwsr-xr-x-unix-file-permission
 status: publish
 title: -rwsr-xr-x Unix file permission

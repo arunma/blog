@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 13:01:38'
 layout: post
+comments: true
 slug: classloading-who-carries-my-class
 status: publish
 title: Classloading — who carries my class???

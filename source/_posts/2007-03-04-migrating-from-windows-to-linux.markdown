@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-04 02:54:55'
 layout: post
+comments: true
 slug: migrating-from-windows-to-linux
 status: publish
 title: Migrating from Windows to Linux?

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-27 02:43:00'
 layout: post
+comments: true
 slug: compare-two-objects
 status: publish
 title: Compare two Objects using Comparator

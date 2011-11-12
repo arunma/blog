@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-15 02:10:46'
 layout: post
+comments: true
 slug: duplicate-entry-xxx-for-key-xxx-mysql-and-hibernate
 status: publish
 title: Duplicate entry xxx for key xxx — MySQL and Hibernate

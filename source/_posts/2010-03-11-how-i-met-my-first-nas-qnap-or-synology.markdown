@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2010-03-11 11:44:08'
 layout: post
+comments: true
 slug: how-i-met-my-first-nas-qnap-or-synology
 status: publish
 title: How I met my first NAS - Qnap or Synology

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-06-10 06:30:12'
 layout: post
+comments: true
 slug: free-web-conferencing-and-a-lot-more
 status: publish
 title: Free Web conferencing and a lot more

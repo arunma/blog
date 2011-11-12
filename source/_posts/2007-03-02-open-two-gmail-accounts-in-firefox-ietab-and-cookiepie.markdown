@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-02 15:29:39'
 layout: post
+comments: true
 slug: open-two-gmail-accounts-in-firefox-ietab-and-cookiepie
 status: publish
 title: Open Two Gmail accounts in Firefox — IETab and Cookiepie

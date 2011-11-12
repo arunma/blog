@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-07-14 14:05:58'
 layout: post
+comments: true
 slug: user_source-view-the-source-sql-of-your-procedure-type-in-oracle
 status: publish
 title: USER_SOURCE — View the source SQL of your Procedure, Type in Oracle

@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-08 03:32:42'
 layout: post
+comments: true
 slug: mac-laptops-are-really-hot
 status: publish
 title: Mac laptops are really hot

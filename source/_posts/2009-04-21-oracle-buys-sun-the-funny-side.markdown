@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-04-21 13:05:35'
 layout: post
+comments: true
 slug: oracle-buys-sun-the-funny-side
 status: publish
 title: Oracle buys Sun -- The funny side

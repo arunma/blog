@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-17 01:28:53'
 layout: post
+comments: true
 slug: linux-needs-windows-to-run-what-is-this-guy-talking
 status: publish
 title: Linux needs Windows to run ;-) (What is this guy talking?)

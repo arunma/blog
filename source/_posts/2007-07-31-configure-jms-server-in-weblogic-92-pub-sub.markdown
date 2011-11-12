@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-07-31 22:48:28'
 layout: post
+comments: true
 slug: configure-jms-server-in-weblogic-92-pub-sub
 status: publish
 title: Configure JMS Server in Weblogic 9.2 — Pub Sub

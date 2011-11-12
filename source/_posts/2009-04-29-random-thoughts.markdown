@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-04-29 16:48:11'
 layout: post
+comments: true
 slug: random-thoughts
 status: publish
 title: Random thoughts

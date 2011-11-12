@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-18 23:56:15'
 layout: post
+comments: true
 slug: krugles-powers-yahoo-developer-network
 status: publish
 title: Krugle powers Yahoo Developer Network

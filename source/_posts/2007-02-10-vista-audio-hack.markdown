@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-10 23:53:37'
 layout: post
+comments: true
 slug: vista-audio-hack
 status: publish
 title: Vista audio hack

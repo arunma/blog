@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-08-29 15:45:07'
 layout: post
+comments: true
 slug: am-i-a-boiling-frog
 status: publish
 title: Am i a Boiling Frog?

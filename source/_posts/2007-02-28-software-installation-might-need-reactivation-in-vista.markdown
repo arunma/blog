@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-28 02:54:38'
 layout: post
+comments: true
 slug: software-installation-might-need-reactivation-in-vista
 status: publish
 title: Software Installation might need reactivation in Vista !!!

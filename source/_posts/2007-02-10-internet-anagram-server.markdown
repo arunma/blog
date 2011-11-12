@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-10 00:19:45'
 layout: post
+comments: true
 slug: internet-anagram-server
 status: publish
 title: Internet Anagram Server

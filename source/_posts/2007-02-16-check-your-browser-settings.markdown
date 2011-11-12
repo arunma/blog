@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-16 23:14:30'
 layout: post
+comments: true
 slug: check-your-browser-settings
 status: publish
 title: Check your Browser settings

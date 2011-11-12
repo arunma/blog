@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-13 23:13:42'
 layout: post
+comments: true
 slug: vistas-another-wow
 status: publish
 title: Vista’s another WOW !!!

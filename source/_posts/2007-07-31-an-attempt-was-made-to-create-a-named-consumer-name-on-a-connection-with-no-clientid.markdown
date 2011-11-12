@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-07-31 23:48:30'
 layout: post
+comments: true
 slug: an-attempt-was-made-to-create-a-named-consumer-name-on-a-connection-with-no-clientid
 status: publish
 title: An attempt was made to create a named consumer (name) on a connection with

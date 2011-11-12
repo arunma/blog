@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2009-10-27 08:25:41'
 layout: post
+comments: true
 slug: the-dominoes-and-the-birth-of-fetch2me
 status: publish
 title: The Dominoes and the birth of Fetch2Me

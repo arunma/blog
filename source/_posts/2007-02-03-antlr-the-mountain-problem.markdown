@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 18:36:10'
 layout: post
+comments: true
 slug: antlr-the-mountain-problem
 status: publish
 title: ANTlr - Weblogic and Hibernate problem

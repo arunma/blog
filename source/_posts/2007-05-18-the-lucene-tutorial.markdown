@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-05-18 09:33:19'
 layout: post
+comments: true
 slug: the-lucene-tutorial
 status: publish
 title: “THE” Lucene Tutorial

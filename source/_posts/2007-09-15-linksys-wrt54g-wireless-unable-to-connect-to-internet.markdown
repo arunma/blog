@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-09-15 01:27:53'
 layout: post
+comments: true
 slug: linksys-wrt54g-wireless-unable-to-connect-to-internet
 status: publish
 title: Linksys WRT54G wireless unable to connect to internet

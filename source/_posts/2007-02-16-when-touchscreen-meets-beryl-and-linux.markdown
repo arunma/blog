@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-16 01:23:53'
 layout: post
+comments: true
 slug: when-touchscreen-meets-beryl-and-linux
 status: publish
 title: When touchscreen meets Beryl and Linux…

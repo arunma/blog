@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2008-06-02 04:59:10'
 layout: post
+comments: true
 slug: is-jcatapult-a-lightweight-spring
 status: publish
 title: Is JCatapult a lightweight Spring?

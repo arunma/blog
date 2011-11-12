@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-06 01:54:53'
 layout: post
+comments: true
 slug: ubuntu-ultimate-tweak-guide
 status: publish
 title: Ubuntu Ultimate Tweak Guide

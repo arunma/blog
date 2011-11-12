@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-08-09 11:01:55'
 layout: post
+comments: true
 slug: the-new-imac-i-am-not-able-to-save-a-single-penny
 status: publish
 title: The new iMac — Will they ever allow me to save some money?

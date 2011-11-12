@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-26 01:07:36'
 layout: post
+comments: true
 slug: save-image-as-without-right-click-using-javascript
 status: publish
 title: “Save Image As” without Right Click using Javascript

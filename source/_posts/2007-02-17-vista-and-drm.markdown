@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-17 02:34:28'
 layout: post
+comments: true
 slug: vista-and-drm
 status: publish
 title: Vista and DRM — What can Vista do for you?

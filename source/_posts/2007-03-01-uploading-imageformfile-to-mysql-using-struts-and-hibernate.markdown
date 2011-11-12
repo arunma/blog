@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-01 01:12:06'
 layout: post
+comments: true
 slug: uploading-imageformfile-to-mysql-using-struts-and-hibernate
 status: publish
 title: Uploading Image/FormFile to MySQL using Struts and Hibernate

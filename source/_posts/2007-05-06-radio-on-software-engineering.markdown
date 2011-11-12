@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-05-06 05:15:39'
 layout: post
+comments: true
 slug: radio-on-software-engineering
 status: publish
 title: Radio on Software Engineering?

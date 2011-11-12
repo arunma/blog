@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 18:44:48'
 layout: post
+comments: true
 slug: open-document-gives-office-a-new-look
 status: publish
 title: Open Document gives Office a new look

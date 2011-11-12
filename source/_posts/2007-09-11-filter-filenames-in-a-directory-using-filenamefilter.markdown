@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-09-11 10:02:00'
 layout: post
+comments: true
 slug: filter-filenames-in-a-directory-using-filenamefilter
 status: publish
 title: Filter filenames in a directory using FilenameFilter

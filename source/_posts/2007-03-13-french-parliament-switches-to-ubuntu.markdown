@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-03-13 01:55:00'
 layout: post
+comments: true
 slug: french-parliament-switches-to-ubuntu
 status: publish
 title: French Parliament switches to Ubuntu

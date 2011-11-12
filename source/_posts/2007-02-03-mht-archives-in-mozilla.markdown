@@ -2,6 +2,7 @@
 author: Arun Manivannan
 date: '2007-02-03 12:59:24'
 layout: post
+comments: true
 slug: mht-archives-in-mozilla
 status: publish
 title: MHT Archives in Mozilla
