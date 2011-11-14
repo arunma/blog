@@ -1,5 +1,5 @@
 ---
-author: admin
+author: Arun Manivannan
 date: '2011-02-15 17:47:21'
 layout: post
 comments: true
