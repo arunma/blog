@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Hello"
+date: 2012-08-26 12:25
+comments: true
+categories: 
+---
