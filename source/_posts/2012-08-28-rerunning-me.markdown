@@ -6,7 +6,7 @@ comments: true
 categories: rerun.me, tech
 
 ---
-Crux : All new tech items will be posted on to rerun.me 
+**Crux :** All new tech items will be posted on to [rerun.me](http://rerun.me) 
 
 **What? Another blog? Why ? ** 
 
